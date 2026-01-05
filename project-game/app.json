@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "project-game",
-    "slug": "snack-5837d85a-ac30-4d06-80db-63d656dece33",
+    "name": "Game",
+    "slug": "game",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,6 +16,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.raft1704.game",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
